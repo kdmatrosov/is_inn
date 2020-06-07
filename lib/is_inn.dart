@@ -1,4 +1,4 @@
-library inn;
+library is_inn;
 
 bool isInn(dynamic value) {
   String inn = value.toString();
